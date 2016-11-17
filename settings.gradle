@@ -1,1 +1,1 @@
-include ':app', ':heartview'
+include ':app', ':heartview', ':arrowcircle'
