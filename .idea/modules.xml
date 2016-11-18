@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/heartview/heartview.iml" filepath="$PROJECT_DIR$/heartview/heartview.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotatetaiji/rotatetaiji.iml" filepath="$PROJECT_DIR$/rotatetaiji/rotatetaiji.iml" />
       <module fileurl="file://$PROJECT_DIR$/serachviewdemo/serachviewdemo.iml" filepath="$PROJECT_DIR$/serachviewdemo/serachviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setpolytopolytest/setpolytopolytest.iml" filepath="$PROJECT_DIR$/setpolytopolytest/setpolytopolytest.iml" />
     </modules>
   </component>
 </project>

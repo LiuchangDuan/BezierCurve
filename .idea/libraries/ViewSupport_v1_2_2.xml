@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ViewSupport-v1.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/setpolytopolytest/build/intermediates/exploded-aar/com.github.GcsSloop/ViewSupport/v1.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/setpolytopolytest/build/intermediates/exploded-aar/com.github.GcsSloop/ViewSupport/v1.2.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.GcsSloop/ViewSupport/v1.2.2/2d6d2628e88f3e3f91cef0caa4990ce35fae0452/ViewSupport-v1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
