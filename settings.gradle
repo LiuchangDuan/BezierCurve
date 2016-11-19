@@ -1,1 +1,1 @@
-include ':app', ':heartview', ':arrowcircle', ':serachviewdemo', ':rotatetaiji', ':setpolytopolytest', ':circleimage'
+include ':app', ':heartview', ':arrowcircle', ':serachviewdemo', ':rotatetaiji', ':setpolytopolytest', ':circleimage', ':rotateanimation'
