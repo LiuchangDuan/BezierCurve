@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     private CustomView mCustomView;
 
-    private int radius;
+//    private int radius;
 
 //    private LinearLayout llRoot;
 
