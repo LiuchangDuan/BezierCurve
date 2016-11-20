@@ -5,9 +5,10 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
-import android.graphics.ColorMatrix;
-import android.graphics.ColorMatrixColorFilter;
+import android.graphics.Color;
 import android.graphics.Paint;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffColorFilter;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -28,6 +29,9 @@ public class CustomView extends View implements Runnable {
     // 圆环半径
     private int radius;
 
+    // 用来标识控件是否被点击过
+    private boolean isClick;
+
     public CustomView(Context context) {
         this(context, null);
     }
@@ -40,10 +44,38 @@ public class CustomView extends View implements Runnable {
         initPaint();
 
         initRes(context);
+
+//        setOnClickListener(new OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                // 判断控件是否被点击过
+//                if (isClick) {
+//                    // 如果已经被点击了则点击时设置颜色过滤为空还原本色
+//                    mPaint.setColorFilter(null);
+//                    isClick = false;
+//                } else {
+//                    // 如果未被点击则点击时设置颜色过滤后为黄色 它所呈现的效果就像有色光照在物体上染色一样
+//                    mPaint.setColorFilter(new LightingColorFilter(0xFFFFFFFF, 0x00FFFF00));
+//                    isClick = true;
+//                }
+//
+//                // 记得重绘
+//                invalidate();
+//            }
+//        });
+
     }
 
     private void initPaint() {
         mPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
+
+        // 设置颜色过滤 变暗了……也变红了……
+        // PorterDuffColorFilter(int color, PorterDuff.Mode mode)
+        // 把Color的值设为红色，而模式设为PorterDuff.Mode.DARKEN变暗
+        mPaint.setColorFilter(new PorterDuffColorFilter(Color.RED, PorterDuff.Mode.DARKEN));
+
+        // 设置颜色过滤 原来偏绿的部分变成红色
+//        mPaint.setColorFilter(new LightingColorFilter(0xFFFF00FF, 0x00000000));
 
 //        ColorMatrix colorMatrix = new ColorMatrix(new float[] {
 //                0.5F, 0, 0, 0, 0,
@@ -85,16 +117,16 @@ public class CustomView extends View implements Runnable {
 //                1.5F, 1.5F, 1.5F, 0, -1,
 //                1.5F, 1.5F, 1.5F, 0, -1,
 //                0, 0, 0, 1, 0,
-//        }); // --------------> 类似去色后高对比度的效果
+//        }); // --------------> 类似去色后高对比度的效果 like Jiang
 
-        ColorMatrix colorMatrix = new ColorMatrix(new float[]{
-                1.438F, -0.122F, -0.016F, 0, -0.03F,
-                -0.062F, 1.378F, -0.016F, 0, 0.05F,
-                -0.062F, -0.122F, 1.483F, 0, -0.02F,
-                0, 0, 0, 1, 0,
-        }); // -------------> 饱和度对比度加强
-
-        mPaint.setColorFilter(new ColorMatrixColorFilter(colorMatrix));
+//        ColorMatrix colorMatrix = new ColorMatrix(new float[]{
+//                1.438F, -0.122F, -0.016F, 0, -0.03F,
+//                -0.062F, 1.378F, -0.016F, 0, 0.05F,
+//                -0.062F, -0.122F, 1.483F, 0, -0.02F,
+//                0, 0, 0, 1, 0,
+//        }); // -------------> 饱和度对比度加强
+//
+//        mPaint.setColorFilter(new ColorMatrixColorFilter(colorMatrix));
 
 //        mPaint.setStyle(Paint.Style.STROKE);
 
