@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/BezierCurve.iml" filepath="$PROJECT_DIR$/BezierCurve.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrowcircle/arrowcircle.iml" filepath="$PROJECT_DIR$/arrowcircle/arrowcircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" filepath="$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleimage/circleimage.iml" filepath="$PROJECT_DIR$/circleimage/circleimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviewdemo/customviewdemo.iml" filepath="$PROJECT_DIR$/customviewdemo/customviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" filepath="$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/heartview/heartview.iml" filepath="$PROJECT_DIR$/heartview/heartview.iml" />
       <module fileurl="file://$PROJECT_DIR$/porterduffviewdemo/porterduffviewdemo.iml" filepath="$PROJECT_DIR$/porterduffviewdemo/porterduffviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotateanimation/rotateanimation.iml" filepath="$PROJECT_DIR$/rotateanimation/rotateanimation.iml" />
