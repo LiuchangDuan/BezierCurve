@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/customviewdemo/customviewdemo.iml" filepath="$PROJECT_DIR$/customviewdemo/customviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" filepath="$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/heartview/heartview.iml" filepath="$PROJECT_DIR$/heartview/heartview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageprocessview/imageprocessview.iml" filepath="$PROJECT_DIR$/imageprocessview/imageprocessview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriximageviewdemo/matriximageviewdemo.iml" filepath="$PROJECT_DIR$/matriximageviewdemo/matriximageviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/porterduffviewdemo/porterduffviewdemo.iml" filepath="$PROJECT_DIR$/porterduffviewdemo/porterduffviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotateanimation/rotateanimation.iml" filepath="$PROJECT_DIR$/rotateanimation/rotateanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotatetaiji/rotatetaiji.iml" filepath="$PROJECT_DIR$/rotatetaiji/rotatetaiji.iml" />
