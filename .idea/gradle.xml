@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/rotatetaiji" />
             <option value="$PROJECT_DIR$/serachviewdemo" />
             <option value="$PROJECT_DIR$/setpolytopolytest" />
+            <option value="$PROJECT_DIR$/testdrawbitmapmesh" />
           </set>
         </option>
       </GradleProjectSettings>
