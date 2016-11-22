@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BezierCurve.iml" filepath="$PROJECT_DIR$/BezierCurve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animlistviewdemo/animlistviewdemo.iml" filepath="$PROJECT_DIR$/animlistviewdemo/animlistviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrowcircle/arrowcircle.iml" filepath="$PROJECT_DIR$/arrowcircle/arrowcircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" filepath="$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" />
