@@ -9,9 +9,14 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.testdrawbitmapmesh.MainActivity">
 
-    <ImageView
-        android:id="@+id/main_iv"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    <com.example.testdrawbitmapmesh.PolylineView
+        android:id="@+id/main_pv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--<ImageView-->
+        <!--android:id="@+id/main_iv"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
 
 </RelativeLayout>
