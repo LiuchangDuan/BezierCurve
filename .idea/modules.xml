@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/customviewdemo/customviewdemo.iml" filepath="$PROJECT_DIR$/customviewdemo/customviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" filepath="$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/heartview/heartview.iml" filepath="$PROJECT_DIR$/heartview/heartview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iconviewdemo/iconviewdemo.iml" filepath="$PROJECT_DIR$/iconviewdemo/iconviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageprocessview/imageprocessview.iml" filepath="$PROJECT_DIR$/imageprocessview/imageprocessview.iml" />
       <module fileurl="file://$PROJECT_DIR$/imgviewdemo/imgviewdemo.iml" filepath="$PROJECT_DIR$/imgviewdemo/imgviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/matriximageviewdemo/matriximageviewdemo.iml" filepath="$PROJECT_DIR$/matriximageviewdemo/matriximageviewdemo.iml" />
