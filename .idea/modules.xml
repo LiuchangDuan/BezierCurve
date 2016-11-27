@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrowcircle/arrowcircle.iml" filepath="$PROJECT_DIR$/arrowcircle/arrowcircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" filepath="$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleimage/circleimage.iml" filepath="$PROJECT_DIR$/circleimage/circleimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customlayoutdemo/customlayoutdemo.iml" filepath="$PROJECT_DIR$/customlayoutdemo/customlayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviewdemo/customviewdemo.iml" filepath="$PROJECT_DIR$/customviewdemo/customviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" filepath="$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/heartview/heartview.iml" filepath="$PROJECT_DIR$/heartview/heartview.iml" />
