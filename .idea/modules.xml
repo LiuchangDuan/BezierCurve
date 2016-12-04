@@ -9,12 +9,15 @@
       <module fileurl="file://$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" filepath="$PROJECT_DIR$/brickviewdemo/brickviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleimage/circleimage.iml" filepath="$PROJECT_DIR$/circleimage/circleimage.iml" />
       <module fileurl="file://$PROJECT_DIR$/customlayoutdemo/customlayoutdemo.iml" filepath="$PROJECT_DIR$/customlayoutdemo/customlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtopbar/customtopbar.iml" filepath="$PROJECT_DIR$/customtopbar/customtopbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviewdemo/customviewdemo.iml" filepath="$PROJECT_DIR$/customviewdemo/customviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extendtextview/extendtextview.iml" filepath="$PROJECT_DIR$/extendtextview/extendtextview.iml" />
       <module fileurl="file://$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" filepath="$PROJECT_DIR$/fontviewdemo/fontviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/heartview/heartview.iml" filepath="$PROJECT_DIR$/heartview/heartview.iml" />
       <module fileurl="file://$PROJECT_DIR$/iconviewdemo/iconviewdemo.iml" filepath="$PROJECT_DIR$/iconviewdemo/iconviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageprocessview/imageprocessview.iml" filepath="$PROJECT_DIR$/imageprocessview/imageprocessview.iml" />
       <module fileurl="file://$PROJECT_DIR$/imgviewdemo/imgviewdemo.iml" filepath="$PROJECT_DIR$/imgviewdemo/imgviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycleviewdemo/lifecycleviewdemo.iml" filepath="$PROJECT_DIR$/lifecycleviewdemo/lifecycleviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/matriximageviewdemo/matriximageviewdemo.iml" filepath="$PROJECT_DIR$/matriximageviewdemo/matriximageviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/multicircleviewdemo/multicircleviewdemo.iml" filepath="$PROJECT_DIR$/multicircleviewdemo/multicircleviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/porterduffviewdemo/porterduffviewdemo.iml" filepath="$PROJECT_DIR$/porterduffviewdemo/porterduffviewdemo.iml" />
@@ -22,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/rotatetaiji/rotatetaiji.iml" filepath="$PROJECT_DIR$/rotatetaiji/rotatetaiji.iml" />
       <module fileurl="file://$PROJECT_DIR$/serachviewdemo/serachviewdemo.iml" filepath="$PROJECT_DIR$/serachviewdemo/serachviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/setpolytopolytest/setpolytopolytest.iml" filepath="$PROJECT_DIR$/setpolytopolytest/setpolytopolytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/squarelayoutdemo/squarelayoutdemo.iml" filepath="$PROJECT_DIR$/squarelayoutdemo/squarelayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/testdrawbitmapmesh/testdrawbitmapmesh.iml" filepath="$PROJECT_DIR$/testdrawbitmapmesh/testdrawbitmapmesh.iml" />
     </modules>
   </component>

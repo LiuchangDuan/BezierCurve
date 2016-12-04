@@ -16,12 +16,15 @@
             <option value="$PROJECT_DIR$/brickviewdemo" />
             <option value="$PROJECT_DIR$/circleimage" />
             <option value="$PROJECT_DIR$/customlayoutdemo" />
+            <option value="$PROJECT_DIR$/customtopbar" />
             <option value="$PROJECT_DIR$/customviewdemo" />
+            <option value="$PROJECT_DIR$/extendtextview" />
             <option value="$PROJECT_DIR$/fontviewdemo" />
             <option value="$PROJECT_DIR$/heartview" />
             <option value="$PROJECT_DIR$/iconviewdemo" />
             <option value="$PROJECT_DIR$/imageprocessview" />
             <option value="$PROJECT_DIR$/imgviewdemo" />
+            <option value="$PROJECT_DIR$/lifecycleviewdemo" />
             <option value="$PROJECT_DIR$/matriximageviewdemo" />
             <option value="$PROJECT_DIR$/multicircleviewdemo" />
             <option value="$PROJECT_DIR$/porterduffviewdemo" />
@@ -29,6 +32,7 @@
             <option value="$PROJECT_DIR$/rotatetaiji" />
             <option value="$PROJECT_DIR$/serachviewdemo" />
             <option value="$PROJECT_DIR$/setpolytopolytest" />
+            <option value="$PROJECT_DIR$/squarelayoutdemo" />
             <option value="$PROJECT_DIR$/testdrawbitmapmesh" />
           </set>
         </option>

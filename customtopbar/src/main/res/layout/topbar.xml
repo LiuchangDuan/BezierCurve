@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.customtopbar.TopBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/topBar"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    custom:leftBackground="@mipmap/ic_launcher"
+    custom:leftText="Back"
+    custom:leftTextColor="#FFFFFF"
+
+    custom:rightBackground="@mipmap/ic_launcher"
+    custom:rightText="More"
+    custom:rightTextColor="#FFFFFF"
+    custom:myTitle="自定义标题"
+    custom:myTitleTextColor="#123412"
+    custom:titleTextSize="15sp">
+
+</com.example.customtopbar.TopBar>
